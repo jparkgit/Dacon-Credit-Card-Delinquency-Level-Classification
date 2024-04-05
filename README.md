@@ -2,7 +2,7 @@
 
 ![df3.csv]([https://github.com/jparkgit/Dacon-Credit-Card-Deliquency-Level-Classification/blob/main/df3.csv]) 자체도 repository에서 찾을 수 있습니다.
 
-고용된 여부에 따라 sub population으로 나눠 별개 모델링을 구현하는 방식에 사용된 [XGB_LGBM_RF_Voting_지현]([https://github.com/jparkgit/Dacon-Credit-Card-Deliquency-Level-Classification/blob/main/XGB_LGBM_RF_Voting_지현.ipynb])의 [df_emp.csv]([https://github.com/jparkgit/Dacon-Credit-Card-Deliquency-Level-Classification/blob/main/df_emp.csv]), [df_unemp.csv]([https://github.com/jparkgit/Dacon-Credit-Card-Deliquency-Level-Classification/blob/main/df_unemp.csv]) 또한 업로드되어 있습니다.
+고용된 여부에 따라 sub population으로 나눠 별개 모델링을 구현하는 방식에 사용된 ![XGB_LGBM_RF_Voting_지현]([https://github.com/jparkgit/Dacon-Credit-Card-Deliquency-Level-Classification/blob/main/XGB_LGBM_RF_Voting_지현.ipynb])의 ![df_emp.csv]([https://github.com/jparkgit/Dacon-Credit-Card-Deliquency-Level-Classification/blob/main/df_emp.csv]), ![df_unemp.csv]([https://github.com/jparkgit/Dacon-Credit-Card-Deliquency-Level-Classification/blob/main/df_unemp.csv]) 또한 업로드되어 있습니다.
 
 전처리 내용:
 - index: 삭제
